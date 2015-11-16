@@ -1,8 +1,24 @@
+name: h2
+favicon: null
 layout_spectrum: 1
 typography_spectrum: 1
+title: 'Hadi & Hadi'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  lightness: 0.7085106
+  brandColors: []
   brandStrength: 0.3052368
+  lightness: 0.7085106
   saturation: 0.7404255
   rhythmicContrast: 0.3489362
-name: h2
+purpose: []
