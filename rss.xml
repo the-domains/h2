@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Hadi & Hadi]]></title>
         <description><![CDATA[Hadi & Hadi]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/h2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 14:45:46 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 16 Nov 2015 14:50:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/h2/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Gnosis Archive: Resources on Gnosticism and Gnostic Tradition]]></title>
+            <description><![CDATA[<article><h1>The Gnosis Archive: Resources on Gnosticism and Gnostic Tradition</h1><p>Many visitors have requested some basic introductory material explaining Gnosticism. To meet this need we offer these "places to start": two short articles, The Gnostic World View: A Brief Summary of Gnosticism and What is a Gnostic?; and two audio lectures (mp3 format) on the Gnostic concept of Christ: The Misunderstood Redeemer, and on Gnosticism and its Legacy.</p><img src="http://www.gnosis.org/images/Bookstore/searchforroots.jpg"></article>]]></description>
+            <link>http://gnosis.org/welcome.html</link>
+            <guid isPermaLink="false">6ba7b2c9-cc5a-4168-914a-172e433c06da</guid>
+            <pubDate>Mon, 16 Nov 2015 14:49:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Humanity+]]></title>
             <description><![CDATA[<article><h1>Humanity+</h1><p>Humanity+ is an international nonprofit membership organization that advocates the ethical use of technology to expand human capacities. In other words, we want people to be better than well. Our Humanity+ conferences explore innovations of science and technology and their relationship to humanity.</p><img src="http://humanityplus.org/wp-content/uploads/2014/06/for-H+Connect.jpg"></article>]]></description>
