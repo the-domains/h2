@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Hadi & Hadi]]></title>
+        <description><![CDATA[Hadi & Hadi]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 16 Nov 2015 14:45:46 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Humanity+]]></title>
+            <description><![CDATA[<article><h1>Humanity+</h1><p>Humanity+ is an international nonprofit membership organization that advocates the ethical use of technology to expand human capacities. In other words, we want people to be better than well. Our Humanity+ conferences explore innovations of science and technology and their relationship to humanity.</p><img src="http://humanityplus.org/wp-content/uploads/2014/06/for-H+Connect.jpg"></article>]]></description>
+            <link>http://humanityplus.org/</link>
+            <guid isPermaLink="false">a06ca29b-a57a-4466-ab20-80674b8ca5c1</guid>
+            <pubDate>Mon, 16 Nov 2015 14:45:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
