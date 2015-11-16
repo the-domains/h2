@@ -4,7 +4,7 @@
         <description><![CDATA[Hadi & Hadi]]></description>
         <link>https://thegrid.ai/h2/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 16 Nov 2015 14:38:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Nov 2015 14:39:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/h2/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Vision]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/h2/vision/index.html</link>
             <guid isPermaLink="false">b0b8df3c-123e-4d94-bb1a-5de6341f1979</guid>
             <pubDate>Mon, 16 Nov 2015 14:38:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Getting Started on The Grid]]></title>
-            <description><![CDATA[<article><h1>Getting Started on The Grid</h1><p>Click the pencil icon in the bottom left to read more...</p><img src="https://d33v4339jhl8k0.cloudfront.net/docs/assets/54dd53ebe4b086c0c0966e7a/images/5616ac809033602f2d9baebd/file-t8c0VXJ6mq.gif"></article>]]></description>
-            <link>https://thegrid.ai/h2/getting-started-on-the-grid/index.html</link>
-            <guid isPermaLink="false">fad0d228-778a-4264-a82e-5bc07d1539ef</guid>
-            <pubDate>Mon, 16 Nov 2015 07:34:04 GMT</pubDate>
         </item>
     </channel>
 </rss>
