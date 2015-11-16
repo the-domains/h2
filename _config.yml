@@ -1,8 +1,8 @@
-layout_spectrum: 0.2085907
-typography_spectrum: 0.04268447
+layout_spectrum: 1
+typography_spectrum: 1
 color:
-  lightness: 0.05889886
+  lightness: 0.7085106
   brandStrength: 0.3052368
-  saturation: 0.8171609
-  rhythmicContrast: 0.2283052
+  saturation: 0.7404255
+  rhythmicContrast: 0.3489362
 name: h2
